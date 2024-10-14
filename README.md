@@ -11,4 +11,5 @@ Key features of the task server include:
     Update Tasks: Users can update the title and completion status of a task using a PUT request.
     Delete Tasks: Users can delete a specific task or bulk delete multiple tasks at once.
 
-I extensively tested the API endpoints using POSTMAN, a powerful tool that allows us to send HTTP requests and verify the responses returned by the server. Through Postman, I was able to check the functionality of each endpoint, ensuring that they work as expected and handle errors gracefully.
+I extensively tested the API endpoints using POSTMAN, a powerful tool that allows us to send HTTP requests and verify the responses returned by the server. 
+Through Postman, I was able to check the functionality of each endpoint, ensuring that they work as expected and handle errors gracefully.
